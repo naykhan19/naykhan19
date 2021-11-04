@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to program c++
 - 💞️ I’m looking to collaborate on schoolwork.
 - 📫 How to reach me: my email is naykhan1999@gmail.com
+- ModifiedCheesyP is the programming assignment "Cheesy Program" but with a different introductory message. 
 
 <!---
 naykhan19/naykhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
